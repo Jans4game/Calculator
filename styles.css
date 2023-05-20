@@ -1,0 +1,180 @@
+#calcDisplay{
+    padding-left: 750px;
+    padding-top: 200px;
+    padding-bottom: 15px;
+    
+}
+
+#trueDisplay {
+    height: 100px;
+    width: 408px;
+    border-radius: 10px;
+    border: 4px solid black;
+    background-color: whitesmoke;
+    font-size: 45px;
+    text-align: right;
+    padding-top: 40px;
+
+}
+
+/* FIrst row start */
+
+
+
+#rowOne {
+    display: flex;
+    padding-left: 750px;
+    gap: 5px;
+    padding-bottom: 5px;
+}
+
+#numberSeven {
+    height: 50px;
+    width: 100px;
+    
+}
+
+#numberEight {
+    height: 50px;
+    width: 100px;
+}
+
+#numberNine {
+    height: 50px;
+    width: 100px;   
+}
+
+#plus {  
+    height: 50px;
+    width: 100px;
+}
+
+
+
+/* First row end */
+
+
+
+
+/* Second row Start*/
+
+
+
+#rowTwo {
+    display: flex;
+    padding-left: 750px;
+    gap: 5px;
+    padding-bottom: 5px;
+
+}
+
+#numberFour {
+    height: 50px;
+    width: 100px;
+}
+
+#numberFive {
+    height: 50px;
+    width: 100px;
+}
+
+#numberSix {
+    height: 50px;
+    width: 100px;
+}
+
+#minus {
+    height: 50px;
+    width: 100px;
+}
+
+/* Second row end */
+
+
+
+
+/* Third row start */
+
+
+
+#rowThree {
+    display: flex;
+    padding-left: 750px;
+    gap: 5px;
+    padding-bottom: 5px;
+
+}
+
+#numberOne {
+    height: 50px;
+    width: 100px;
+}
+
+#numberTwo {
+    height: 50px;
+    width: 100px;
+}
+
+#numberThree {
+    height: 50px;
+    width: 100px;
+}
+
+#multiply {
+    height: 50px;
+    width: 100px;
+}
+
+
+
+/* Third row end */
+
+
+
+/* Fourth row start */
+
+#rowFour {
+    display: flex;
+    padding-left: 750px;
+    gap: 5px;
+
+}
+
+#numberZero {
+    height: 50px;
+    width: 205px;
+}
+
+#divide {
+    height: 50px;
+    width: 100px;
+}
+
+#equalTo {
+    height: 50px;
+    width: 100px;
+}
+
+
+/* Fourth row end */
+
+
+
+
+/* Fifth row starts */
+
+
+#rowFive {
+    padding-left: 900px;
+    padding-top: 15px;
+}
+
+#clearButton {
+    height: 50px;
+    width: 100px;
+}
+
+
+/* Fifth row ends */
+
+
